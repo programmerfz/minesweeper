@@ -2,7 +2,7 @@
 
 这是一款由 JavaScript + HTML + CSS 制作的网页小游戏，请 [点击体验](https://pages.programmerfz.com/games/minesweeper/)。
 
-![示例图](https://raw.githubusercontent.com/programmerfz/minesweeper/main/imgs/sample.png)
+![示例图](https://programmerfz.github.io/games/minesweeper/imgs/sample.gif)
 
 ## 玩法说明
 
